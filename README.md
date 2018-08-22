@@ -1,5 +1,5 @@
 # vui-fire
-
+For Demo click here https://vue-fire-ce925.firebaseapp.com/
 ## Project setup
 ```
 npm install
